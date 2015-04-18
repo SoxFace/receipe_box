@@ -26,6 +26,7 @@ gem 'haml'
 gem 'simple_form'
 gem 'bootstrap-sass'
 gem 'paperclip'
+gem 'cocoon'
 
 
 # Use ActiveModel has_secure_password
