@@ -25,6 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'haml'
 gem 'simple_form'
 gem 'bootstrap-sass'
+gem 'paperclip'
 
 
 # Use ActiveModel has_secure_password
